@@ -1,0 +1,28 @@
+@import "reset.css";
+.red-block {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+.blue-block {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+}
+.yellow-block {
+  background-color: yellow;
+  width: 150px;
+  height: 150px;
+}
+.red-block {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.blue-block {
+  margin: 0 0 20px 218px;
+}
+.yellow-block {
+  margin-left: 218px;
+}
+/*# sourceMappingURL=style5.css.map */

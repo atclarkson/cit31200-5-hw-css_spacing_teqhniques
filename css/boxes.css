@@ -1,0 +1,16 @@
+.red-block {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+.blue-block {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+}
+.yellow-block {
+  background-color: yellow;
+  width: 150px;
+  height: 150px;
+}
+/*# sourceMappingURL=boxes.css.map */
